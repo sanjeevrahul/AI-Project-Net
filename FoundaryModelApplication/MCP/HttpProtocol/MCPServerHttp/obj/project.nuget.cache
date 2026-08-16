@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhgNVk3BQlI=",
+  "success": true,
+  "projectFilePath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.8.3\\microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.hosting\\10.0.3\\microsoft.extensions.hosting.10.0.3.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\modelcontextprotocol\\2.2.0\\modelcontextprotocol.2.2.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\2.2.0\\modelcontextprotocol.aspnetcore.2.2.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\modelcontextprotocol.core\\2.2.0\\modelcontextprotocol.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\openai\\2.13.0\\openai.2.13.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\system.clientmodel\\1.14.0\\system.clientmodel.1.14.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Hosting will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

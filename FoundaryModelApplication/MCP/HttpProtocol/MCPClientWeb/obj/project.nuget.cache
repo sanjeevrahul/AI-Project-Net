@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nh9qejRd2wg=",
+  "success": true,
+  "projectFilePath": "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.8.3\\microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\modelcontextprotocol\\2.2.0\\modelcontextprotocol.2.2.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\modelcontextprotocol.core\\2.2.0\\modelcontextprotocol.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\openai\\2.13.0\\openai.2.13.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\system.clientmodel\\1.14.0\\system.clientmodel.1.14.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\system.memory.data\\10.0.3\\system.memory.data.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
