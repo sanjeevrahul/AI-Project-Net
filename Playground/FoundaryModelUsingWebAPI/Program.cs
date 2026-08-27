@@ -38,7 +38,7 @@ const string endpoint =
 
 
 const string apiKey =
-    "EKMuOxD0Uq55lXbcZL4CWL76ZgOXzYkb3XqgNP2aAj5xlN3HF3lyJQQJ99CHAC5RqLJXJ3w3AAAAACOGO5dG";
+    "test";
 
 ResponsesClient client = new(
     credential: new ApiKeyCredential(apiKey),
