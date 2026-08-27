@@ -38,7 +38,7 @@ const string endpoint =
 
 
 const string apiKey =
-    "test";
+    "EKMuOxD0Uq55lXbcZL4CWL76ZgOXzYkb3XqgNP2aAj5xlN3HF3lyJQQJ99CHAC5RqLJXJ3w3AAAAACOGO5dG";
 
 ResponsesClient client = new(
     credential: new ApiKeyCredential(apiKey),
@@ -156,7 +156,7 @@ const string endpointTranslation =
 
 const string apiVersion = "2025-10-01-preview";
 
-const string subscriptionKey = "test";
+const string subscriptionKey = "EKMuOxD0Uq55lXbcZL4CWL76ZgOXzYkb3XqgNP2aAj5xlN3HF3lyJQQJ99CHAC5RqLJXJ3w3AAAAACOGO5dG";
 const string region = "westeurope";
 var translationApi = app.MapGroup("/translator");
 

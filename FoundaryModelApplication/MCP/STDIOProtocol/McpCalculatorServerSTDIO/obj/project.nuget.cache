@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvLDhZ/N0iY=",
+  "dgSpecHash": "No4TbEjOPAY=",
   "success": true,
-  "projectFilePath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\McpCalculatorServer.csproj",
+  "projectFilePath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\McpCalculatorServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.2.0\\microsoft.extensions.ai.abstractions.10.2.0.nupkg.sha512",
     "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.2\\microsoft.extensions.caching.abstractions.10.0.2.nupkg.sha512",

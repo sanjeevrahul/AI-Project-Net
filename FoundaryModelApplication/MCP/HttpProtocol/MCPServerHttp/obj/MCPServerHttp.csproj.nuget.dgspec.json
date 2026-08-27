@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj": {}
+    "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj": {}
   },
   "projects": {
-    "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj": {
+    "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+        "projectUniqueName": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
         "projectName": "MCPServerHttp",
-        "projectPath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+        "projectPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
         "packagesPath": "C:\\Users\\SanjeevRahul\\.nuget\\packages\\",
-        "outputPath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\obj\\",
+        "outputPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

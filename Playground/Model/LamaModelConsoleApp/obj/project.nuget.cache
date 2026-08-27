@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGBINWAokQ4=",
+  "success": true,
+  "projectFilePath": "C:\\Sanjeev\\Project\\AI\\Playground\\Model\\LamaModelConsoleApp\\LamaModelConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.agents.ai\\1.18.0\\microsoft.agents.ai.1.18.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.18.0\\microsoft.agents.ai.abstractions.1.18.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai\\10.7.0\\microsoft.extensions.ai.10.7.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.7.0\\microsoft.extensions.ai.abstractions.10.7.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.evaluation\\10.7.0\\microsoft.extensions.ai.evaluation.10.7.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.ollama\\9.7.0-preview.1.25356.2\\microsoft.extensions.ai.ollama.9.7.0-preview.1.25356.2.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.9\\microsoft.extensions.caching.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.5.0\\microsoft.extensions.compliance.abstractions.10.5.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.6\\microsoft.extensions.filesystemglobbing.10.0.6.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.9\\microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.objectpool\\10.0.6\\microsoft.extensions.objectpool.10.0.6.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.9\\microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\10.7.0\\microsoft.extensions.vectordata.abstractions.10.7.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.ml.tokenizers\\2.0.0\\microsoft.ml.tokenizers.2.0.0.nupkg.sha512",
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\system.numerics.tensors\\10.0.9\\system.numerics.tensors.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

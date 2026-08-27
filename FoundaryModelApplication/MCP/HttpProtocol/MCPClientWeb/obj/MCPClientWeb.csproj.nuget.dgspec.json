@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj": {}
+    "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj": {}
   },
   "projects": {
-    "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj": {
+    "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
+        "projectUniqueName": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
         "projectName": "MCPClientWeb",
-        "projectPath": "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
+        "projectPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
         "packagesPath": "C:\\Users\\SanjeevRahul\\.nuget\\packages\\",
-        "outputPath": "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\obj\\",
+        "outputPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPClientWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

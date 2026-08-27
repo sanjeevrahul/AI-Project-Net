@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhgNVk3BQlI=",
+  "dgSpecHash": "3MR2HrEMpvE=",
   "success": true,
-  "projectFilePath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+  "projectFilePath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.8.3\\microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512",
     "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.hosting\\10.0.3\\microsoft.extensions.hosting.10.0.3.nupkg.sha512",
@@ -18,9 +18,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.Extensions.Hosting will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+      "projectPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\AI\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
+      "filePath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPServerHttp\\MCPServerHttp.csproj",
       "libraryId": "Microsoft.Extensions.Hosting",
       "targetGraphs": [
         "net10.0"

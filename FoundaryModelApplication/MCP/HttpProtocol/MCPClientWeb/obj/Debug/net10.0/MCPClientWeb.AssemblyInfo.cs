@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MCPClientWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c482acf7f1b85004b5528b53ae3d2817b67c0774")]
 [assembly: System.Reflection.AssemblyProductAttribute("MCPClientWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MCPClientWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

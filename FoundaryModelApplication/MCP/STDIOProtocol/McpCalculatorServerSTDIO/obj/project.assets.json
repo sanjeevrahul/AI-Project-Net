@@ -1687,11 +1687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\McpCalculatorServer.csproj",
+      "projectUniqueName": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\McpCalculatorServer.csproj",
       "projectName": "McpCalculatorServer",
-      "projectPath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\McpCalculatorServer.csproj",
+      "projectPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\McpCalculatorServer.csproj",
       "packagesPath": "C:\\Users\\SanjeevRahul\\.nuget\\packages\\",
-      "outputPath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\obj\\",
+      "outputPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorServerSTDIO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

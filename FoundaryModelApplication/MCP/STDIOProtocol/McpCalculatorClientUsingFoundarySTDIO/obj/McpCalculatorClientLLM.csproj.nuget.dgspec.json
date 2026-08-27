@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj": {}
+    "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj": {}
   },
   "projects": {
-    "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj": {
+    "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
+        "projectUniqueName": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
         "projectName": "McpCalculatorClientLLM",
-        "projectPath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
+        "projectPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
         "packagesPath": "C:\\Users\\SanjeevRahul\\.nuget\\packages\\",
-        "outputPath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\obj\\",
+        "outputPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

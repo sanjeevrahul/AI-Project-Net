@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nh9qejRd2wg=",
+  "dgSpecHash": "zMeYJjjKOeQ=",
   "success": true,
-  "projectFilePath": "C:\\AI\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
+  "projectFilePath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\HttpProtocol\\MCPClientWeb\\MCPClientWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SanjeevRahul\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.8.3\\microsoft.extensions.ai.abstractions.10.8.3.nupkg.sha512",
     "C:\\Users\\SanjeevRahul\\.nuget\\packages\\modelcontextprotocol\\2.2.0\\modelcontextprotocol.2.2.0.nupkg.sha512",

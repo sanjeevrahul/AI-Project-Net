@@ -19,19 +19,19 @@
           }
         }
       },
-      "Azure.Core/1.61.0": {
+      "Azure.Core/1.62.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Bcl.AsyncInterfaces": "10.0.9",
-          "Microsoft.Extensions.Configuration.Abstractions": "10.0.9",
-          "Microsoft.Extensions.Hosting.Abstractions": "10.0.9",
+          "Microsoft.Bcl.AsyncInterfaces": "10.0.10",
+          "Microsoft.Extensions.Configuration.Abstractions": "10.0.10",
+          "Microsoft.Extensions.Hosting.Abstractions": "10.0.10",
           "Microsoft.Identity.Client": "4.84.2",
           "Microsoft.Identity.Client.Extensions.Msal": "4.84.2",
           "System.ClientModel": "1.15.0",
-          "System.Diagnostics.DiagnosticSource": "10.0.9",
-          "System.Memory.Data": "10.0.9",
-          "System.Text.Encodings.Web": "10.0.9",
-          "System.Text.Json": "10.0.9"
+          "System.Diagnostics.DiagnosticSource": "10.0.10",
+          "System.Memory.Data": "10.0.10",
+          "System.Text.Encodings.Web": "10.0.10",
+          "System.Text.Json": "10.0.10"
         },
         "compile": {
           "lib/net8.0/Azure.Core.dll": {
@@ -47,7 +47,7 @@
           "buildTransitive/net8.0/Azure.Core.targets": {}
         }
       },
-      "Microsoft.Bcl.AsyncInterfaces/10.0.9": {
+      "Microsoft.Bcl.AsyncInterfaces/10.0.10": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -863,10 +863,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "System.Memory.Data/10.0.9": {
+      "System.Memory.Data/10.0.10": {
         "type": "package",
         "dependencies": {
-          "System.Text.Json": "10.0.9"
+          "System.Text.Json": "10.0.10"
         },
         "compile": {
           "lib/net9.0/System.Memory.Data.dll": {
@@ -982,17 +982,17 @@
         "lib/netstandard2.0/Azure.AI.Inference.xml"
       ]
     },
-    "Azure.Core/1.61.0": {
-      "sha512": "sns4J9zz7NCpfNYz9rMIly5/TjDkNsTnPAr4nNr0BUBzn6tn6RNOEHOKb7A7DhJj/dEFMSevp3Ye36cUiNmsfg==",
+    "Azure.Core/1.62.0": {
+      "sha512": "C0ijs91ZW2uhF/VwGLXeayb+RwTWhDxKnrsmqPWg5HkYtPQ93mzaydyMCjAzE0AG5yHc1bpaPc+NPlZUgz3w8g==",
       "type": "package",
-      "path": "azure.core/1.61.0",
+      "path": "azure.core/1.62.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "CHANGELOG.md",
         "ConfigurationSchema.json",
         "README.md",
-        "azure.core.1.61.0.nupkg.sha512",
+        "azure.core.1.62.0.nupkg.sha512",
         "azure.core.nuspec",
         "azureicon.png",
         "buildTransitive/net10.0/Azure.Core.targets",
@@ -1012,10 +1012,10 @@
         "lib/netstandard2.0/Azure.Core.xml"
       ]
     },
-    "Microsoft.Bcl.AsyncInterfaces/10.0.9": {
-      "sha512": "Aq7M8lG6BrHeatqKqncVm9m55ec34k6nnfPRLe/PvGg+b/pAsRM2ejofeKmCLjTXMa+5NGXm382f8CG/D5WDow==",
+    "Microsoft.Bcl.AsyncInterfaces/10.0.10": {
+      "sha512": "TFI6OKYE1XZz4SGuTSH70c6SBdPpFktXsoa1gCxTr3mKrhmXirnvaS0tKz+J3ZWICEAmMpEGn59nO4ICtUpQXA==",
       "type": "package",
-      "path": "microsoft.bcl.asyncinterfaces/10.0.9",
+      "path": "microsoft.bcl.asyncinterfaces/10.0.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1030,7 +1030,7 @@
         "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml",
         "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
         "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml",
-        "microsoft.bcl.asyncinterfaces.10.0.9.nupkg.sha512",
+        "microsoft.bcl.asyncinterfaces.10.0.10.nupkg.sha512",
         "microsoft.bcl.asyncinterfaces.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -2205,10 +2205,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Memory.Data/10.0.9": {
-      "sha512": "YweovHiLUoEdbr2Xv8eRqCSkTu1vMms4a6xBHaQiMSFVy32PL+hXv6Vhol2NWOmLHjaVgTyhJ3R52U6JxS6w3Q==",
+    "System.Memory.Data/10.0.10": {
+      "sha512": "roR+5AeOpflUxJQlqSfsZs/Bvi1uw4KBuTkIgF1e8l0RdalG4AUn84+sjJLclEfOV85gAjc8+Pp540qjDE5UIg==",
       "type": "package",
-      "path": "system.memory.data/10.0.9",
+      "path": "system.memory.data/10.0.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2229,7 +2229,7 @@
         "lib/net9.0/System.Memory.Data.xml",
         "lib/netstandard2.0/System.Memory.Data.dll",
         "lib/netstandard2.0/System.Memory.Data.xml",
-        "system.memory.data.10.0.9.nupkg.sha512",
+        "system.memory.data.10.0.10.nupkg.sha512",
         "system.memory.data.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -2430,11 +2430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
+      "projectUniqueName": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
       "projectName": "McpCalculatorClientLLM",
-      "projectPath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
+      "projectPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\McpCalculatorClientLLM.csproj",
       "packagesPath": "C:\\Users\\SanjeevRahul\\.nuget\\packages\\",
-      "outputPath": "C:\\AI\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\obj\\",
+      "outputPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
