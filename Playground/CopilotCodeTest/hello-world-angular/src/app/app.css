@@ -1,0 +1,156 @@
+
+:host {
+  display: block;
+  min-height: 100vh;
+}
+
+.page {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, #0f172a, #2563eb, #7c3aed);
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+.circle {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  filter: blur(20px);
+  animation: float 8s ease-in-out infinite;
+}
+
+.circle.one {
+  top: 10%;
+  left: 10%;
+}
+
+.circle.two {
+  right: 10%;
+  bottom: 10%;
+  animation-delay: 2s;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+
+  50% {
+    transform: translateY(-25px) scale(1.05);
+  }
+}
+
+.card {
+  position: relative;
+  z-index: 1;
+
+  width: min(900px, 90vw);
+  max-height: 85vh;
+
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+
+  padding: 40px;
+
+  text-align: center;
+
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(10px);
+
+  overflow: hidden;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+p {
+  margin: 16px 0 24px;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+button {
+  border: none;
+  border-radius: 999px;
+
+  padding: 12px 24px;
+
+  font-size: 1rem;
+  font-weight: bold;
+
+  cursor: pointer;
+
+  background: white;
+  color: #1d4ed8;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+/* Ollama response */
+.message {
+  margin-top: 25px;
+
+  padding: 20px;
+
+  text-align: left;
+
+  white-space: pre-wrap;
+  word-wrap: break-word;
+
+  line-height: 1.6;
+  font-size: 1rem;
+
+  background: rgba(0, 0, 0, 0.25);
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+
+  max-height: 50vh;
+  overflow-y: auto;
+
+  color: white;
+}
+
+/* Scrollbar */
+.message::-webkit-scrollbar {
+  width: 8px;
+}
+
+.message::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+}
+
+.message::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+}
+
+.message::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
