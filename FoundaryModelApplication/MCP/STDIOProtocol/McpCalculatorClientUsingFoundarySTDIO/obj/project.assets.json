@@ -19,15 +19,15 @@
           }
         }
       },
-      "Azure.Core/1.62.0": {
+      "Azure.Core/1.64.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "10.0.10",
           "Microsoft.Extensions.Configuration.Abstractions": "10.0.10",
           "Microsoft.Extensions.Hosting.Abstractions": "10.0.10",
-          "Microsoft.Identity.Client": "4.84.2",
-          "Microsoft.Identity.Client.Extensions.Msal": "4.84.2",
-          "System.ClientModel": "1.15.0",
+          "Microsoft.Identity.Client": "4.90.0",
+          "Microsoft.Identity.Client.Extensions.Msal": "4.90.0",
+          "System.ClientModel": "1.16.0",
           "System.Diagnostics.DiagnosticSource": "10.0.10",
           "System.Memory.Data": "10.0.10",
           "System.Text.Encodings.Web": "10.0.10",
@@ -677,7 +677,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Identity.Client/4.84.2": {
+      "Microsoft.Identity.Client/4.90.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Abstractions": "8.14.0",
@@ -694,10 +694,10 @@
           }
         }
       },
-      "Microsoft.Identity.Client.Extensions.Msal/4.84.2": {
+      "Microsoft.Identity.Client.Extensions.Msal/4.90.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Identity.Client": "4.84.2",
+          "Microsoft.Identity.Client": "4.90.0",
           "System.Security.Cryptography.ProtectedData": "4.5.0"
         },
         "compile": {
@@ -780,16 +780,16 @@
           "buildTransitive/netstandard2.0/OpenAI.targets": {}
         }
       },
-      "System.ClientModel/1.15.0": {
+      "System.ClientModel/1.16.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "10.0.9",
-          "Microsoft.Extensions.Hosting.Abstractions": "10.0.9",
-          "Microsoft.Extensions.Logging.Abstractions": "10.0.9",
-          "System.Diagnostics.DiagnosticSource": "10.0.9",
-          "System.Memory.Data": "10.0.9",
-          "System.Net.ServerSentEvents": "10.0.9",
-          "System.Text.Json": "10.0.9"
+          "Microsoft.Extensions.Configuration.Abstractions": "10.0.10",
+          "Microsoft.Extensions.Hosting.Abstractions": "10.0.10",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.10",
+          "System.Diagnostics.DiagnosticSource": "10.0.10",
+          "System.Memory.Data": "10.0.10",
+          "System.Net.ServerSentEvents": "10.0.10",
+          "System.Text.Json": "10.0.10"
         },
         "compile": {
           "lib/net9.0/System.ClientModel.dll": {
@@ -982,17 +982,17 @@
         "lib/netstandard2.0/Azure.AI.Inference.xml"
       ]
     },
-    "Azure.Core/1.62.0": {
-      "sha512": "C0ijs91ZW2uhF/VwGLXeayb+RwTWhDxKnrsmqPWg5HkYtPQ93mzaydyMCjAzE0AG5yHc1bpaPc+NPlZUgz3w8g==",
+    "Azure.Core/1.64.0": {
+      "sha512": "SMmFWcTyRMdwdoLk+3yN9PrnxznDis1T8PpOeDFuB3/56ipMDYkPl7P8z5qNRzWWd9LL0lFJ5qhkhmomYamWUQ==",
       "type": "package",
-      "path": "azure.core/1.62.0",
+      "path": "azure.core/1.64.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "CHANGELOG.md",
         "ConfigurationSchema.json",
         "README.md",
-        "azure.core.1.62.0.nupkg.sha512",
+        "azure.core.1.64.0.nupkg.sha512",
         "azure.core.nuspec",
         "azureicon.png",
         "buildTransitive/net10.0/Azure.Core.targets",
@@ -1952,10 +1952,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Identity.Client/4.84.2": {
-      "sha512": "Va9FjmABSgj/lcUfHH0pBNQkmS7SNyepz2ERV7Yynp6QgEYpFdSqR6Vzy1WWipN8GS5pBHuXoZbqaDWuARCrHQ==",
+    "Microsoft.Identity.Client/4.90.0": {
+      "sha512": "oc5A0jmu083T3OW1JVYMrM1rekIL8SkBRB/byMMQjFuYlRZsMh3wDeCwwrz9sGI6XlP5BIqO7XWgjPpF3reF5A==",
       "type": "package",
-      "path": "microsoft.identity.client/4.84.2",
+      "path": "microsoft.identity.client/4.90.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1973,14 +1973,14 @@
         "lib/net8.0/Microsoft.Identity.Client.xml",
         "lib/netstandard2.0/Microsoft.Identity.Client.dll",
         "lib/netstandard2.0/Microsoft.Identity.Client.xml",
-        "microsoft.identity.client.4.84.2.nupkg.sha512",
+        "microsoft.identity.client.4.90.0.nupkg.sha512",
         "microsoft.identity.client.nuspec"
       ]
     },
-    "Microsoft.Identity.Client.Extensions.Msal/4.84.2": {
-      "sha512": "+D98LaU3dOu/Nzs6kgbBJapMvH7iwYcAeC99XwSkpmEadsPv6rozecOl9P6m4A3RfpOuPt9e6J6TwwUUp3+M4w==",
+    "Microsoft.Identity.Client.Extensions.Msal/4.90.0": {
+      "sha512": "/L7b+fNF+ITSw3SPlbgE7ax2MqVg/a60kHsDooKUbjYDdX88COTTwE20qRPT84fykehBTSmP7LSxh6b5hwIEOw==",
       "type": "package",
-      "path": "microsoft.identity.client.extensions.msal/4.84.2",
+      "path": "microsoft.identity.client.extensions.msal/4.90.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1989,7 +1989,7 @@
         "lib/net8.0/Microsoft.Identity.Client.Extensions.Msal.xml",
         "lib/netstandard2.0/Microsoft.Identity.Client.Extensions.Msal.dll",
         "lib/netstandard2.0/Microsoft.Identity.Client.Extensions.Msal.xml",
-        "microsoft.identity.client.extensions.msal.4.84.2.nupkg.sha512",
+        "microsoft.identity.client.extensions.msal.4.90.0.nupkg.sha512",
         "microsoft.identity.client.extensions.msal.nuspec"
       ]
     },
@@ -2082,10 +2082,10 @@
         "openai.nuspec"
       ]
     },
-    "System.ClientModel/1.15.0": {
-      "sha512": "y6zQLInrpX+oGL1gXM04DrUSu1O1esWxt4rD/zrujTnzIFChn/noD1OiVVpTrU8ZvglwqO2Uw038svUR3SiAOg==",
+    "System.ClientModel/1.16.0": {
+      "sha512": "vLljZON+8lXDUtsPP8uwsPvsBSQaUHhh8NvB+D9TQsXu5n622RLtuLyZAcyIFc98b8ixrwD0AhzUQhtg2NwJnQ==",
       "type": "package",
-      "path": "system.clientmodel/1.15.0",
+      "path": "system.clientmodel/1.16.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2106,7 +2106,7 @@
         "lib/net9.0/System.ClientModel.xml",
         "lib/netstandard2.0/System.ClientModel.dll",
         "lib/netstandard2.0/System.ClientModel.xml",
-        "system.clientmodel.1.15.0.nupkg.sha512",
+        "system.clientmodel.1.16.0.nupkg.sha512",
         "system.clientmodel.nuspec"
       ]
     },
@@ -2424,8 +2424,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SanjeevRahul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2436,19 +2435,13 @@
       "packagesPath": "C:\\Users\\SanjeevRahul\\.nuget\\packages\\",
       "outputPath": "C:\\Sanjeev\\Project\\AI\\FoundaryModelApplication\\MCP\\STDIOProtocol\\McpCalculatorClientUsingFoundarySTDIO\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\SanjeevRahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\SanjeevRahul\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
